@@ -1,0 +1,14 @@
+.projects_list {
+    column-count: 3;
+    line-height: 2;
+    column-gap: 0;
+    grid-column-gap: 0;
+}
+
+.projects_item {
+    width: 200px;
+}
+
+.projects_item img {
+    width: 100%;
+}

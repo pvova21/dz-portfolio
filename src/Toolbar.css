@@ -1,0 +1,33 @@
+.btn_list {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+}
+
+.btn_item {
+    margin-right: 10px;
+    color: #282c34;
+    background-color: #fff;
+    padding: 10px;
+    text-transform: uppercase;
+    border: 1px solid #282c34;
+    box-sizing: border-box;
+}
+
+.btn_item:hover {
+    background-color: #F5F5F5;
+}
+
+.btn_item:focus {
+    outline: none;
+
+}
+
+.selected {
+    color: #fff;
+    background-color: #282c34;
+}
+ .selected:hover {
+     background-color: #282c34;
+ }
