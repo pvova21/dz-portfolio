@@ -1,5 +1,9 @@
 # dz-portfolio
 
+[![Build status](https://ci.appveyor.com/api/projects/status/5lxpgsfb9dmelyyu?svg=true)](https://ci.appveyor.com/project/pvova21/dz-portfolio)
+
+## [GitHub Pages](https://pvova21.github.io/dz-portfolio/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
